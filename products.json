@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "'70 Chevrolet Chevelle SS",
+    "category": "muscle",
+    "price": 399,
+    "badge": "COLLECTOR FAVOURITE",
+    "description": "Classic American muscle in a compact 1:64-scale die-cast form.",
+    "image": "/images/chevelle-blue.jpg",
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "name": "Lamborghini Hurac\u00e1n",
+    "category": "supercars",
+    "price": 449,
+    "badge": "POPULAR",
+    "description": "A sharp exotic miniature with vivid paint and sculpted lines.",
+    "image": "/images/lamborghini-yellow.jpg",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Custom '16 Ford Mustang GT",
+    "category": "muscle",
+    "price": 399,
+    "badge": "HOT PICK",
+    "description": "A bold custom-style muscle car for your miniature garage.",
+    "image": "/images/mustang-blue.jpg",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "name": "Bone Shaker",
+    "category": "fantasy",
+    "price": 429,
+    "badge": "HW ORIGINAL",
+    "description": "A signature fantasy casting with an unmistakable hot-rod attitude.",
+    "image": "/images/bone-shaker.jpg",
+    "stock": 9
+  },
+  {
+    "id": 5,
+    "name": "Custom Pickup Truck",
+    "category": "trucks",
+    "price": 349,
+    "badge": "NEW ARRIVAL",
+    "description": "A chunky custom pickup miniature built for display and play.",
+    "image": "/images/pickup-blue.jpg",
+    "stock": 11
+  },
+  {
+    "id": 6,
+    "name": "Toyota Supra",
+    "category": "supercars",
+    "price": 449,
+    "badge": "JDM ICON",
+    "description": "A tuner-inspired miniature with a track-ready look.",
+    "image": "/images/supra-orange.jpg",
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "name": "Blue Die-Cast Racer",
+    "category": "classics",
+    "price": 299,
+    "badge": "CLASSIC",
+    "description": "A timeless blue miniature racer for collectors of every age.",
+    "image": "/images/detail-chevelle.jpg",
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "name": "Orange Muscle Coupe",
+    "category": "muscle",
+    "price": 329,
+    "badge": "LIMITED DROP",
+    "description": "A bright orange miniature coupe that stands out in any display.",
+    "image": "/images/hero-miniature.jpg",
+    "stock": 6
+  }
+]

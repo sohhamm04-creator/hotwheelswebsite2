@@ -1,0 +1,12 @@
+{
+  "name": "hotwheels-miniature-garage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hot Wheels-inspired die-cast storefront with Vercel serverless API and Supabase persistence",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node check-project.js"
+  }
+}
